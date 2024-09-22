@@ -12,8 +12,8 @@ jobs:
   test:
     env:
       MONGODB_CLUSTER_ADDRESS: ghadb.kkgvb.mongodb.net
-      MONGODB_USERNAME: sehindemitech
-      MONGODB_PASSWORD: ^]rR95R;>bvnaeT
+      MONGODB_USERNAME: Sehindemi1
+      MONGODB_PASSWORD: Sehindemi1
       PORT: 8080 
     runs-on: ubuntu-latest
     steps:
